@@ -1,0 +1,16 @@
+{
+  "name": "bst-angular-auth",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0",
+    "@azure/msal-browser": "^2.23.0",
+    "@firebase/app": "^0.7.20",
+    "@firebase/auth": "^0.19.11",
+    "amazon-cognito-identity-js": "^5.2.8",
+    "rxjs": "~6.6.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
